@@ -164,7 +164,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child:const  Text.rich(
                   TextSpan(children: [
                     TextSpan(
-                      text:"DESION",
+                      text:"DESIGN",
                       style: TextStyle(
                         color: Color(0xffFFBC00),
                         fontSize: 25,
